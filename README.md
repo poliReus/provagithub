@@ -1,0 +1,1 @@
+Prova slack auto notification
